@@ -1,0 +1,1698 @@
+{
+  "height": 56061,
+  "viewport": {
+    "w": 1440,
+    "h": 900
+  },
+  "anchors": [
+    {
+      "tag": "circle",
+      "id": "circle-corner-top-left",
+      "top": -1493,
+      "height": 2277,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-corner-top-right",
+      "top": -1493,
+      "height": 2277,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-center-large-top",
+      "top": -1493,
+      "height": 2277,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-top-right",
+      "top": -1266,
+      "height": 2594,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-top-left",
+      "top": -1266,
+      "height": 2594,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "centered-vertical",
+      "top": -990,
+      "height": 2880,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "golden-left-vertical",
+      "top": -990,
+      "height": 2880,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "golden-right-vertical",
+      "top": -990,
+      "height": 2880,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "diagonal-top-left-to-bottom-right",
+      "top": -990,
+      "height": 2880,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "diagonal-top-right-to-bottom-left",
+      "top": -990,
+      "height": 2880,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "diagonal-golden-left-to-bottom-left",
+      "top": -990,
+      "height": 2880,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "diagonal-golden-right-to-bottom-right",
+      "top": -990,
+      "height": 2880,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "diagonal-golden-right-to-top-right",
+      "top": -990,
+      "height": 2880,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "diagonal-golden-left-to-top-left",
+      "top": -990,
+      "height": 2880,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "spiral-top-left-vertical-1",
+      "top": -990,
+      "height": 1336,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-center-small-top",
+      "top": -576,
+      "height": 1202,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-bottom-right",
+      "top": -428,
+      "height": 2594,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-bottom-left",
+      "top": -428,
+      "height": 2594,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-right-arc",
+      "top": 4,
+      "height": 1100,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "ul",
+      "id": "all-editions-dropdown-expandable-section",
+      "top": 40,
+      "height": 245,
+      "classes": "mt-8 group pointer-events-none invisible opacity-0 delay-0 global-lg:-translate-y-10 translate-y-50 fixed global-lg:absolute left-0 bottom-0 global-lg:bottom-au",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-corner-bottom-left",
+      "top": 117,
+      "height": 2277,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-corner-bottom-right",
+      "top": 117,
+      "height": 2277,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-center-large-bottom",
+      "top": 117,
+      "height": 2277,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-bottom-arc",
+      "top": 118,
+      "height": 1556,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "spiral-top-left-vertical-2",
+      "top": 218,
+      "height": 128,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "circle",
+      "id": "circle-center-small-bottom",
+      "top": 274,
+      "height": 1202,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "spiral-bottom-right-vertical-1",
+      "top": 554,
+      "height": 1336,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "path",
+      "id": "spiral-bottom-right-vertical-2",
+      "top": 554,
+      "height": 128,
+      "classes": "[object SVGAnimatedString]",
+      "heading": ""
+    },
+    {
+      "tag": "div",
+      "id": "main-content",
+      "top": 1350,
+      "height": 54711,
+      "classes": "",
+      "heading": "Sidekick"
+    },
+    {
+      "tag": "section",
+      "id": "sidekick",
+      "top": 1350,
+      "height": 8844,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "Sidekick"
+    },
+    {
+      "tag": "div",
+      "id": "sidekick-video-intro",
+      "top": 2610,
+      "height": 428,
+      "classes": "pointer-events-auto",
+      "heading": ""
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-video",
+      "top": 2610,
+      "height": 308,
+      "classes": "w-full col-span-full global-lg:mb-40 pt-0 pb-0 global-lg:pb-100 grid grid-cols-subgrid",
+      "heading": ""
+    },
+    {
+      "tag": "div",
+      "id": "insights-proactively-delivered",
+      "top": 3038,
+      "height": 1082,
+      "classes": "pointer-events-auto",
+      "heading": "Informations proactives"
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-pulse",
+      "top": 3190,
+      "height": 810,
+      "classes": "w-full col-span-full global-lg:mb-40 grid grid-cols-subgrid",
+      "heading": "Suggestions intelligentes"
+    },
+    {
+      "tag": "div",
+      "id": "complexity-delegated",
+      "top": 4120,
+      "height": 2160,
+      "classes": "pointer-events-auto",
+      "heading": "Complexité déléguée"
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-generates-apps",
+      "top": 4271,
+      "height": 599,
+      "classes": "w-full col-span-full global-lg:mb-40 relative grid grid-cols-subgrid items-center justify-between global-lg:pt-20 mb-0",
+      "heading": "Génération d'applis personnalisées"
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-builds-workflows-in-shopify-flow",
+      "top": 4975,
+      "height": 554,
+      "classes": "w-full col-span-full global-lg:mb-40 grid grid-cols-subgrid items-center justify-between mb-0",
+      "heading": "Automatisation des flux de travail"
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-generates-custom-analytics-reports",
+      "top": 5633,
+      "height": 568,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 bg-transparent space-y-10",
+      "heading": ""
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-builds-segments",
+      "top": 5633,
+      "height": 568,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 bg-transparent space-y-10",
+      "heading": ""
+    },
+    {
+      "tag": "div",
+      "id": "designs-refined",
+      "top": 6280,
+      "height": 1873,
+      "classes": "pointer-events-auto",
+      "heading": "Designs affinés"
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-generates-theme-edits",
+      "top": 6432,
+      "height": 945,
+      "classes": "w-full col-span-full global-lg:mb-40 grid grid-cols-subgrid mb-0",
+      "heading": "Générer des modifications de thème"
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-creates-studio-quality-photos",
+      "top": 7481,
+      "height": 593,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 bg-transparent space-y-10",
+      "heading": ""
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-edits-images-on-mobile",
+      "top": 7481,
+      "height": 593,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-3 bg-transparent space-y-10",
+      "heading": ""
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-edits-emails",
+      "top": 7481,
+      "height": 593,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-3 bg-transparent space-y-10",
+      "heading": ""
+    },
+    {
+      "tag": "div",
+      "id": "tedious-tasks-simplified",
+      "top": 8154,
+      "height": 2041,
+      "classes": "pointer-events-auto",
+      "heading": "Tâches fastidieuses simplifiées"
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-skills",
+      "top": 8305,
+      "height": 813,
+      "classes": "w-full col-span-full global-lg:w-[100cqi] global-lg:relative global-lg:left-[-20cqi] global-lg:mb-40 relative",
+      "heading": "Raccourcis pour les invites"
+    },
+    {
+      "tag": "div",
+      "id": "top-skills-horizontal-scroll-container",
+      "top": 8522,
+      "height": 596,
+      "classes": "flex items-center justify-center pt-20 global-lg:block global-lg:w-auto global-lg:ml-0 global-lg:mb-0 global-lg:px-120",
+      "heading": ""
+    },
+    {
+      "tag": "div",
+      "id": "top-skills-card-container",
+      "top": 8542,
+      "height": 576,
+      "classes": "relative shrink-0 h-500 w-1000 mx-[max(100px,calc(50vw-500px))] global-lg:w-full global-lg:h-auto global-lg:mx-0",
+      "heading": ""
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-multi-step-task-completion",
+      "top": 9222,
+      "height": 545,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 bg-transparent space-y-10",
+      "heading": ""
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-voice-chat-on-mobile",
+      "top": 9222,
+      "height": 545,
+      "classes": "card-container col-span-2 md:col-span-6 sm-tablet:col-span-2 bg-transparent space-y-10",
+      "heading": ""
+    },
+    {
+      "tag": "section",
+      "id": "agentic",
+      "top": 10194,
+      "height": 2735,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "Agentique"
+    },
+    {
+      "tag": "div",
+      "id": "agentic-xxl",
+      "top": 11454,
+      "height": 1475,
+      "classes": "pointer-events-auto",
+      "heading": "Boutiques en ligne agentiques de Shopify"
+    },
+    {
+      "tag": "article",
+      "id": "shopify-agentic-storefronts",
+      "top": 11454,
+      "height": 738,
+      "classes": "w-full col-span-full global-lg:mb-40 grid grid-cols-subgrid remove-parent-y-gap items-center justify-between pt-[15vh] global-lg:pt-100 pb-0! mb-0! pr-0! mr-0! ",
+      "heading": "Boutiques en ligne agentiques de Shopify"
+    },
+    {
+      "tag": "article",
+      "id": "agentic-storefronts-video",
+      "top": 12192,
+      "height": 657,
+      "classes": "card-container col-span-2 md:col-span-12 full-bleed bg-transparent relative overflow-hidden",
+      "heading": "Boutiques en ligne agentiques"
+    },
+    {
+      "tag": "section",
+      "id": "online",
+      "top": 12929,
+      "height": 6075,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "En ligne"
+    },
+    {
+      "tag": "div",
+      "id": "rollout-xxl",
+      "top": 14189,
+      "height": 1892,
+      "classes": "pointer-events-auto",
+      "heading": "Testez et programmez vos lancements avec Rollouts"
+    },
+    {
+      "tag": "article",
+      "id": "rollouts",
+      "top": 14189,
+      "height": 1013,
+      "classes": "w-full col-span-full global-lg:mb-40 grid grid-cols-subgrid overflow-visible",
+      "heading": "Testez et programmez vos lancements avec Rollouts"
+    },
+    {
+      "tag": "article",
+      "id": "shopify-simgym-app",
+      "top": 15306,
+      "height": 656,
+      "classes": "w-full col-span-full global-lg:mb-40 grid grid-cols-subgrid items-center justify-between mb-0",
+      "heading": "Appli Shopify SimGym"
+    },
+    {
+      "tag": "article",
+      "id": "manage-store-details-in-the-theme-editor",
+      "top": 16102,
+      "height": 586,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Gérer les détails de la boutique dans l’éditeur de thème"
+    },
+    {
+      "tag": "article",
+      "id": "theme-generation-on-mobile",
+      "top": 16102,
+      "height": 586,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-3 space-y-10",
+      "heading": "Générer des thèmes sur mobile"
+    },
+    {
+      "tag": "article",
+      "id": "sell-on-wordpress",
+      "top": 16102,
+      "height": 586,
+      "classes": "card-container col-span-2 md:col-span-3 sm-tablet:col-span-2 space-y-10",
+      "heading": "Vendre sur WordPress"
+    },
+    {
+      "tag": "div",
+      "id": "tinker-xxl",
+      "top": 17617,
+      "height": 1387,
+      "classes": "pointer-events-auto",
+      "heading": "Présentation de Tinker"
+    },
+    {
+      "tag": "article",
+      "id": "tinker-app",
+      "top": 17842,
+      "height": 1042,
+      "classes": "w-full col-span-full global-lg:mb-40 mt-[25vh] grid grid-cols-subgrid items-center justify-between global-lg:pt-100",
+      "heading": "Présentation de Tinker"
+    },
+    {
+      "tag": "section",
+      "id": "retail",
+      "top": 19004,
+      "height": 8259,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "Retail"
+    },
+    {
+      "tag": "div",
+      "id": "pos-hub-collection",
+      "top": 20264,
+      "height": 5233,
+      "classes": "pointer-events-auto",
+      "heading": "Plus qu’un simple hub"
+    },
+    {
+      "tag": "article",
+      "id": "pos-hub",
+      "top": 20714,
+      "height": 1485,
+      "classes": "mt-[50vh] w-full col-span-full safe-min-h-svh global-lg:mb-40",
+      "heading": "Plus qu’un simple hub"
+    },
+    {
+      "tag": "article",
+      "id": "connections-that-never-drop",
+      "top": 22303,
+      "height": 1485,
+      "classes": "w-full col-span-full safe-min-h-svh global-lg:mb-40",
+      "heading": "Des connexions qui ne se coupent jamais"
+    },
+    {
+      "tag": "article",
+      "id": "the-only-hub-with-processing-power",
+      "top": 23892,
+      "height": 1485,
+      "classes": "w-full col-span-full safe-min-h-svh global-lg:mb-40",
+      "heading": "Le seul hub doté d’une puissance de traitement"
+    },
+    {
+      "tag": "article",
+      "id": "pos-hub-compatible-scanners",
+      "top": 25517,
+      "height": 536,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Lecteurs compatibles avec le POS Hub"
+    },
+    {
+      "tag": "article",
+      "id": "subscriptions-on-pos",
+      "top": 25517,
+      "height": 536,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Abonnements sur POS"
+    },
+    {
+      "tag": "article",
+      "id": "quick-count-with-pos",
+      "top": 26117,
+      "height": 561,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-3 space-y-10",
+      "heading": "Comptage rapide avec POS"
+    },
+    {
+      "tag": "article",
+      "id": "pos-customization-in-one-editor",
+      "top": 26117,
+      "height": 561,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Personnalisation de POS dans un seul éditeur"
+    },
+    {
+      "tag": "article",
+      "id": "same-day-delivery-with-uber-direct",
+      "top": 26117,
+      "height": 561,
+      "classes": "card-container col-span-2 md:col-span-3 sm-tablet:col-span-2 space-y-10",
+      "heading": "Livraison le jour même avec Uber Direct"
+    },
+    {
+      "tag": "section",
+      "id": "marketing",
+      "top": 27263,
+      "height": 4229,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "Marketing"
+    },
+    {
+      "tag": "div",
+      "id": "chatgpt-xxl",
+      "top": 28523,
+      "height": 1230,
+      "classes": "pointer-events-auto",
+      "heading": "Shopify Product Network"
+    },
+    {
+      "tag": "article",
+      "id": "shopify-product-network",
+      "top": 28748,
+      "height": 965,
+      "classes": "w-full col-span-full global-lg:mb-40 md:mt-[25vh] grid grid-cols-subgrid items-center justify-between pt-[15vh] global-lg:pt-100",
+      "heading": "Shopify Product Network"
+    },
+    {
+      "tag": "article",
+      "id": "shop-campaigns-expands-to-the-online-store",
+      "top": 29773,
+      "height": 619,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Shop Campaigns s’étend à la boutique en ligne"
+    },
+    {
+      "tag": "article",
+      "id": "shopify-messaging-supports-sms-marketing",
+      "top": 29773,
+      "height": 619,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Shopify Messaging prend en charge le marketing par SMS"
+    },
+    {
+      "tag": "article",
+      "id": "auto-translation-for-shopify-forms",
+      "top": 30456,
+      "height": 491,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Traduction automatique pour Shopify Forms"
+    },
+    {
+      "tag": "article",
+      "id": "improved-segmentation-template-search",
+      "top": 30456,
+      "height": 491,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Recherche de modèles de segmentation améliorée"
+    },
+    {
+      "tag": "section",
+      "id": "checkout",
+      "top": 31491,
+      "height": 2207,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "Paiement"
+    },
+    {
+      "tag": "article",
+      "id": "personalized-shop-pay-button",
+      "top": 32771,
+      "height": 413,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Bouton Shop personnalisé"
+    },
+    {
+      "tag": "article",
+      "id": "checkout-and-accounts-customization-per-market",
+      "top": 32771,
+      "height": 413,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Personnalisation du paiement et des comptes par marché"
+    },
+    {
+      "tag": "section",
+      "id": "operations",
+      "top": 33699,
+      "height": 3108,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "Opérations"
+    },
+    {
+      "tag": "article",
+      "id": "flexible-inventory-transfers",
+      "top": 34979,
+      "height": 781,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-4 space-y-10",
+      "heading": "Transferts de stock flexibles"
+    },
+    {
+      "tag": "article",
+      "id": "quick-sale-in-the-shopify-mobile-app",
+      "top": 34979,
+      "height": 781,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-4 space-y-10",
+      "heading": "Vente rapide dans l’application Shopify Mobile"
+    },
+    {
+      "tag": "article",
+      "id": "updated-metrics-and-widgets-for-apple-watch",
+      "top": 34979,
+      "height": 781,
+      "classes": "card-container col-span-2 md:col-span-4 sm-tablet:col-span-2 space-y-10",
+      "heading": "Indicateurs et widgets mis à jour pour l'Apple Watch"
+    },
+    {
+      "tag": "section",
+      "id": "shop-app",
+      "top": 36807,
+      "height": 2456,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "Shop app"
+    },
+    {
+      "tag": "article",
+      "id": "dynamic-shop-storefronts",
+      "top": 38087,
+      "height": 757,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-4 space-y-10",
+      "heading": "Boutiques en ligne dynamiques"
+    },
+    {
+      "tag": "article",
+      "id": "deals-feed-on-shop",
+      "top": 38087,
+      "height": 757,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-4 space-y-10",
+      "heading": "Flux d’offres"
+    },
+    {
+      "tag": "article",
+      "id": "shoppable-videos-on-shop",
+      "top": 38087,
+      "height": 757,
+      "classes": "card-container col-span-2 md:col-span-4 sm-tablet:col-span-2 space-y-10",
+      "heading": "Vidéos achetables"
+    },
+    {
+      "tag": "article",
+      "id": "shop-order-tracking-in-18-more-countries",
+      "top": 39070,
+      "height": 133,
+      "classes": "",
+      "heading": "Suivi des commandes dans 21 pays supplémentaires"
+    },
+    {
+      "tag": "section",
+      "id": "b2b",
+      "top": 39263,
+      "height": 3043,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "B2B"
+    },
+    {
+      "tag": "article",
+      "id": "shopify-collective-available-globally",
+      "top": 40543,
+      "height": 540,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Shopify Collective disponible dans le monde entier"
+    },
+    {
+      "tag": "article",
+      "id": "ach-payments-for-b2b",
+      "top": 40543,
+      "height": 540,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Paiements ACH pour le B2B"
+    },
+    {
+      "tag": "article",
+      "id": "suppliers-can-discover-retailers",
+      "top": 41147,
+      "height": 466,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Les fournisseurs peuvent découvrir des détaillants"
+    },
+    {
+      "tag": "article",
+      "id": "payment-requests-per-fulfillment",
+      "top": 41147,
+      "height": 466,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Demandes de paiement par traitement de commande"
+    },
+    {
+      "tag": "article",
+      "id": "create-rules-for-order-review",
+      "top": 41823,
+      "height": 102,
+      "classes": "",
+      "heading": "Création de règles pour l'examen des commandes"
+    },
+    {
+      "tag": "section",
+      "id": "finance",
+      "top": 42306,
+      "height": 2542,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "Finance"
+    },
+    {
+      "tag": "article",
+      "id": "continuous-funding-with-the-shopify-capital-flex-account",
+      "top": 43586,
+      "height": 569,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Financement continu avec le compte flexible Capital"
+    },
+    {
+      "tag": "article",
+      "id": "automatic-transfers-in-shopify-balance",
+      "top": 43586,
+      "height": 569,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-3 space-y-10",
+      "heading": "Transferts automatiques dans Shopify Balance"
+    },
+    {
+      "tag": "article",
+      "id": "staff-cards-spend-controls-with-shopify-balance",
+      "top": 43586,
+      "height": 569,
+      "classes": "card-container col-span-2 md:col-span-3 sm-tablet:col-span-2 space-y-10",
+      "heading": "Cartes pour les employés avec contrôles de dépenses"
+    },
+    {
+      "tag": "article",
+      "id": "credits-on-usdc-transactions",
+      "top": 44365,
+      "height": 102,
+      "classes": "",
+      "heading": "Crédits sur les transactions en USDC"
+    },
+    {
+      "tag": "article",
+      "id": "increased-shopify-credit-rewards-cap",
+      "top": 44497,
+      "height": 102,
+      "classes": "",
+      "heading": "Plafond de récompenses Shopify Credit augmenté"
+    },
+    {
+      "tag": "section",
+      "id": "shipping",
+      "top": 44848,
+      "height": 2327,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-light",
+      "heading": "Expédition"
+    },
+    {
+      "tag": "article",
+      "id": "fedex-return-labels",
+      "top": 46128,
+      "height": 527,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Étiquettes de retour FedEx"
+    },
+    {
+      "tag": "article",
+      "id": "default-package-per-variant",
+      "top": 46128,
+      "height": 527,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Colis par défaut par variante"
+    },
+    {
+      "tag": "article",
+      "id": "expanded-us-and-canada-cross-border-labels",
+      "top": 46895,
+      "height": 118,
+      "classes": "",
+      "heading": "Plus d’étiquettes transfrontalières pour les États-Unis et le Canada"
+    },
+    {
+      "tag": "section",
+      "id": "developer",
+      "top": 47175,
+      "height": 8886,
+      "classes": "relative overflow-clip flex justify-end pointer-events-none text-dark",
+      "heading": "Développeurs"
+    },
+    {
+      "tag": "div",
+      "id": "agentic-commerce",
+      "top": 48435,
+      "height": 1499,
+      "classes": "",
+      "heading": "Commerce agentique"
+    },
+    {
+      "tag": "article",
+      "id": "build-commerce-agents-from-the-dev-dash",
+      "top": 48563,
+      "height": 594,
+      "classes": "w-full col-span-full global-lg:mb-40 grid grid-cols-subgrid items-center px-0",
+      "heading": "Créer des agents de commerce"
+    },
+    {
+      "tag": "article",
+      "id": "shopify-catalog-for-all",
+      "top": 49261,
+      "height": 593,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Shopify Catalog pour tous"
+    },
+    {
+      "tag": "article",
+      "id": "checkout-kit-for-web",
+      "top": 49261,
+      "height": 593,
+      "classes": "card-container col-span-2 md:col-span-6 sm-tablet:col-span-2 space-y-10",
+      "heading": "Checkout Kit pour le web"
+    },
+    {
+      "tag": "div",
+      "id": "developer-sidekick",
+      "top": 49934,
+      "height": 696,
+      "classes": "",
+      "heading": "Sidekick"
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-recommends-apps",
+      "top": 50025,
+      "height": 525,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Sidekick recommande des applis"
+    },
+    {
+      "tag": "article",
+      "id": "sidekick-app-extensions",
+      "top": 50025,
+      "height": 525,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Extensions d’appli Sidekick"
+    },
+    {
+      "tag": "div",
+      "id": "apps-themes",
+      "top": 50630,
+      "height": 430,
+      "classes": "",
+      "heading": "Applis + Thèmes"
+    },
+    {
+      "tag": "div",
+      "id": "platform-tools",
+      "top": 51060,
+      "height": 2814,
+      "classes": "",
+      "heading": "Plateforme + outils"
+    },
+    {
+      "tag": "article",
+      "id": "build-with-full-mcp-support",
+      "top": 51151,
+      "height": 648,
+      "classes": "card-container col-span-2 md:col-span-12 full-bleed relative overflow-hidden",
+      "heading": "Développez avec une prise en charge complète de MCP"
+    },
+    {
+      "tag": "article",
+      "id": "admin-intents-api",
+      "top": 51863,
+      "height": 617,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Flux de travail fluides avec l’Admin Intents API"
+    },
+    {
+      "tag": "article",
+      "id": "faster-bulk-operations",
+      "top": 51863,
+      "height": 617,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Opérations en bloc plus rapides"
+    },
+    {
+      "tag": "article",
+      "id": "improved-metafields-and-metaobjects",
+      "top": 52544,
+      "height": 575,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Champs méta et métaobjets améliorés"
+    },
+    {
+      "tag": "article",
+      "id": "tangle",
+      "top": 52544,
+      "height": 575,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Nouveau : Tangle"
+    },
+    {
+      "tag": "div",
+      "id": "storefronts-extensions",
+      "top": 53874,
+      "height": 2187,
+      "classes": "",
+      "heading": "Boutiques en ligne + extensions"
+    },
+    {
+      "tag": "article",
+      "id": "shop-minis-sdk",
+      "top": 53965,
+      "height": 662,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Shop Minis SDK"
+    },
+    {
+      "tag": "article",
+      "id": "pos-extensions-storage-api",
+      "top": 53965,
+      "height": 662,
+      "classes": "card-container col-span-2 sm-tablet:col-span-1 md:col-span-6 space-y-10",
+      "heading": "Extensions Storage API pour POS"
+    }
+  ],
+  "navLinks": [
+    {
+      "text": "Accéder directement au contenu principal",
+      "href": "https://www.shopify.com/fr/editions/winter2026#main-content",
+      "hash": "#main-content",
+      "classes": "-translate-y-full absolute z-10 flex h-full px-20 items-center no-underline rounded-t-none top-0 transition-all focus-visible:translate-y-0 focus-ring bg-g1 tex"
+    },
+    {
+      "text": "Sidekick",
+      "href": "https://www.shopify.com/fr/editions/winter2026#sidekick",
+      "hash": "#sidekick",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Agentique",
+      "href": "https://www.shopify.com/fr/editions/winter2026#agentic",
+      "hash": "#agentic",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "En ligne",
+      "href": "https://www.shopify.com/fr/editions/winter2026#online",
+      "hash": "#online",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Retail",
+      "href": "https://www.shopify.com/fr/editions/winter2026#retail",
+      "hash": "#retail",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Marketing",
+      "href": "https://www.shopify.com/fr/editions/winter2026#marketing",
+      "hash": "#marketing",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Paiement",
+      "href": "https://www.shopify.com/fr/editions/winter2026#checkout",
+      "hash": "#checkout",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Opérations",
+      "href": "https://www.shopify.com/fr/editions/winter2026#operations",
+      "hash": "#operations",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Shop app",
+      "href": "https://www.shopify.com/fr/editions/winter2026#shop-app",
+      "hash": "#shop-app",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "B2B",
+      "href": "https://www.shopify.com/fr/editions/winter2026#b2b",
+      "hash": "#b2b",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Finance",
+      "href": "https://www.shopify.com/fr/editions/winter2026#finance",
+      "hash": "#finance",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Expédition",
+      "href": "https://www.shopify.com/fr/editions/winter2026#shipping",
+      "hash": "#shipping",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Développeurs",
+      "href": "https://www.shopify.com/fr/editions/winter2026#developer",
+      "hash": "#developer",
+      "classes": "relative flex items-center justify-between py-20 w-full rounded-none pointer-events-auto hover:bg-transparent hover:text-current no-underline hover:no-underline"
+    },
+    {
+      "text": "Sidekick",
+      "href": "https://www.shopify.com/fr/editions/winter2026#sidekick",
+      "hash": "#sidekick",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Agentique",
+      "href": "https://www.shopify.com/fr/editions/winter2026#agentic",
+      "hash": "#agentic",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "En ligne",
+      "href": "https://www.shopify.com/fr/editions/winter2026#online",
+      "hash": "#online",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Retail",
+      "href": "https://www.shopify.com/fr/editions/winter2026#retail",
+      "hash": "#retail",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Marketing",
+      "href": "https://www.shopify.com/fr/editions/winter2026#marketing",
+      "hash": "#marketing",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Paiement",
+      "href": "https://www.shopify.com/fr/editions/winter2026#checkout",
+      "hash": "#checkout",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Opérations",
+      "href": "https://www.shopify.com/fr/editions/winter2026#operations",
+      "hash": "#operations",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Shop app",
+      "href": "https://www.shopify.com/fr/editions/winter2026#shop-app",
+      "hash": "#shop-app",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "B2B",
+      "href": "https://www.shopify.com/fr/editions/winter2026#b2b",
+      "hash": "#b2b",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Finance",
+      "href": "https://www.shopify.com/fr/editions/winter2026#finance",
+      "hash": "#finance",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Expédition",
+      "href": "https://www.shopify.com/fr/editions/winter2026#shipping",
+      "hash": "#shipping",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Développeurs",
+      "href": "https://www.shopify.com/fr/editions/winter2026#developer",
+      "hash": "#developer",
+      "classes": "headline-6 py-2 flex justify-between items-end relative sidebar-link text-white [html[data-sidebar-theme=\"light\"]_&]:text-grey-mid"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/help-and-guidance?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#pulse",
+      "hash": "#pulse",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/help-and-guidance?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#theme-editing",
+      "hash": "#theme-editing",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/generate-content?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#image-generation",
+      "hash": "#image-generation",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/generate-content?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#email-campaigns",
+      "hash": "#email-campaigns",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/help-and-guidance?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#to-do-lists",
+      "hash": "#to-do-lists",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/set-up?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#voice-screenshare",
+      "hash": "#voice-screenshare",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Découverte d’applications",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/help-and-guidance?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#discover-apps",
+      "hash": "#discover-apps",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Sélection de la cible",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/set-up?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#input-features",
+      "hash": "#input-features",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Meilleure mémoire",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/help-and-guidance?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#memory",
+      "hash": "#memory",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Gestion des fonds",
+      "href": "https://help.shopify.com/fr/manual/shopify-admin/productivity-tools/sidekick/help-and-guidance?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#check-balance",
+      "hash": "#check-balance",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/online-store/themes/adding-themes?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#generate-a-free-theme",
+      "hash": "#generate-a-free-theme",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Statut de produit non référencé",
+      "href": "https://help.shopify.com/fr/manual/products/details/product-details-page?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#unlisted-products",
+      "hash": "#unlisted-products",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Réductions automatiques pour les clients éligibles",
+      "href": "https://help.shopify.com/fr/manual/discounts/managing-discounts?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#manage-discount-eligibility",
+      "hash": "#manage-discount-eligibility",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Prix avant réduction dans les catalogues",
+      "href": "https://help.shopify.com/fr/manual/markets-new/catalogs?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#create-catalog",
+      "hash": "#create-catalog",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Options de lot combinées",
+      "href": "https://help.shopify.com/fr/manual/products/bundles/shopify-bundles?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#combine-bundle-options",
+      "hash": "#combine-bundle-options",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Recherche de noms de domaine assistée par l’IA",
+      "href": "https://help.shopify.com/fr/manual/domains/add-a-domain/buying-domains?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#buy-domain",
+      "hash": "#buy-domain",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Connexion client plus rapide avec Shop",
+      "href": "https://help.shopify.com/fr/manual/customers/customer-accounts/new-customer-accounts/manage?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#shop",
+      "hash": "#shop",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Texte de connexion personnalisable",
+      "href": "https://help.shopify.com/fr/manual/online-store/themes/customizing-themes/language/change-wording?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#change-the-default-wording-in-your-theme",
+      "hash": "#change-the-default-wording-in-your-theme",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Markets pour la vente au détail",
+      "href": "https://help.shopify.com/fr/manual/sell-in-person/markets/manage?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#catalogs-for-retail-markets",
+      "hash": "#catalogs-for-retail-markets",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Paiements pour la vente au détail dans plus de pays",
+      "href": "https://help.shopify.com/fr/manual/sell-in-person/getting-started/setup-payment-method/shopify-payments-pos?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#supported",
+      "hash": "#supported",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Paiements par code QR",
+      "href": "https://help.shopify.com/fr/manual/sell-in-person/shopify-pos/payment-management/accepting-local-payments?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#supported-local-payment-methods",
+      "hash": "#supported-local-payment-methods",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Tap to Pay dans plus de pays",
+      "href": "https://help.shopify.com/fr/manual/sell-in-person/shopify-pos/payment-management/tap-to-pay-iphone?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#requirements",
+      "hash": "#requirements",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Cartes Bancaires acceptées sur POS",
+      "href": "https://help.shopify.com/fr/manual/payments/shopify-payments/supported-countries/france/payment-methods?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#card-type-france",
+      "hash": "#card-type-france",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Sélections de remboursement sur POS",
+      "href": "https://help.shopify.com/fr/manual/sell-in-person/shopify-pos/order-management/complete-refund-orders?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#refund-an-order",
+      "hash": "#refund-an-order",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/online-sales-channels/shop/shop-campaigns/understanding-campaigns?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#shopify-stores",
+      "hash": "#shopify-stores",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/customers/customer-segmentation/create-customer-segments?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#template",
+      "hash": "#template",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Ciblez tous les publics dans une seule Shop Campaign",
+      "href": "https://help.shopify.com/fr/manual/online-sales-channels/shop/shop-campaigns/understanding-campaigns?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#campaign-objectives",
+      "hash": "#campaign-objectives",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Shop Campaigns sur plus de canaux",
+      "href": "https://help.shopify.com/fr/manual/online-sales-channels/shop/shop-campaigns/understanding-campaigns?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#other-platforms",
+      "hash": "#other-platforms",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Segmentation des clients par catégories de produits",
+      "href": "https://help.shopify.com/fr/manual/customers/customer-segmentation/create-customer-segments?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#shopifyql",
+      "hash": "#shopifyql",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Sections de produits dynamiques dans les e-mails",
+      "href": "https://help.shopify.com/fr/manual/promoting-marketing/create-marketing/shopify-messaging/email/create-email/templates?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#product",
+      "hash": "#product",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Vue de calendrier pour la messagerie",
+      "href": "https://help.shopify.com/fr/manual/promoting-marketing/create-marketing/shopify-messaging/email/create-email/create-campaigns?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#planner",
+      "hash": "#planner",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Consentement au marketing dans Shopify Forms",
+      "href": "https://help.shopify.com/fr/manual/promoting-marketing/create-marketing/forms-app/settings/all-forms?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#form",
+      "hash": "#form",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Shop Pay fonctionne avec Global-e",
+      "href": "https://help.shopify.com/fr/manual/payments/shop-pay/activating-shop-pay?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#third-party",
+      "hash": "#third-party",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Apple Pay dans Shop Pay",
+      "href": "https://help.shopify.com/fr/manual/payments/shop-pay/shop-pay?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#supported-payment-methods",
+      "hash": "#supported-payment-methods",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Rappels pour les abonnements Shop Pay",
+      "href": "https://help.shopify.com/fr/manual/online-sales-channels/shop/manage-shop-store/products-and-collections?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#subscriptions",
+      "hash": "#subscriptions",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Plus de moyens de paiement en France",
+      "href": "https://help.shopify.com/fr/manual/payments/shopify-payments/supported-countries/france/payment-methods?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#local-payment-methods-france",
+      "hash": "#local-payment-methods-france",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Klarna dans plus de pays",
+      "href": "https://help.shopify.com/fr/manual/payments/shopify-payments/local-payment-methods/klarna/klarna-shopify-payments?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#regions-where-merchants-can-use-klarna-with-shopify-payments",
+      "hash": "#regions-where-merchants-can-use-klarna-with-shopify-payments",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Gestion des rétrofacturations assistée par l’IA",
+      "href": "https://help.shopify.com/fr/manual/payments/shopify-payments/managing-chargebacks/chargebacks-shopify-admin?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#add-evidence-and-submit-a-chargeback",
+      "hash": "#add-evidence-and-submit-a-chargeback",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Cartes thermiques dans l’analyse",
+      "href": "https://help.shopify.com/fr/manual/reports-and-analytics/shopify-reports/report-types/reports-overview?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#visualizations",
+      "hash": "#visualizations",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Principaux articles personnalisables dans l’analyse",
+      "href": "https://help.shopify.com/fr/manual/reports-and-analytics/shopify-reports/report-types/custom-reports/filter-and-edit?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#customize-top-items-visualizations",
+      "hash": "#customize-top-items-visualizations",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Analyses de données unifiées pour plusieurs boutiques",
+      "href": "https://help.shopify.com/fr/manual/organization-settings/analytics?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#multi-store-reporting",
+      "hash": "#multi-store-reporting",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Modification des commandes non traitées avec droits de douane",
+      "href": "https://help.shopify.com/fr/manual/fulfillment/managing-orders/editing-orders/considerations?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#taxes-duties",
+      "hash": "#taxes-duties",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Des protections plus intelligentes pour les mises à jour du stock",
+      "href": "https://help.shopify.com/fr/manual/products/inventory/adjusting-inventory/bulk-editing-inventory?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#edit-properties",
+      "hash": "#edit-properties",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Annulation des exécutions de flux de travail dans Flow",
+      "href": "https://help.shopify.com/fr/manual/shopify-flow/manage/monitor?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#cancelling-runs",
+      "hash": "#cancelling-runs",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Notifications par e-mail de crédit en magasin",
+      "href": "https://help.shopify.com/fr/manual/customers/store-credit?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#issue",
+      "hash": "#issue",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Améliorations de Managed Markets",
+      "href": "https://help.shopify.com/fr/manual/international/managed-markets/overview?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#benefits",
+      "hash": "#benefits",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Meilleure découverte de produits dans les Shop Minis",
+      "href": "https://shop.app/minis/?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#gallery",
+      "hash": "#gallery",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/online-sales-channels/shopify-collective/suppliers/discovery?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#find-retailers",
+      "hash": "#find-retailers",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "demande de paiement distincte",
+      "href": "https://help.shopify.com/fr/manual/fulfillment/managing-orders/payments/deferred-payments?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#payment-per-fulfillment",
+      "hash": "#payment-per-fulfillment",
+      "classes": "relative"
+    },
+    {
+      "text": "Read help doc",
+      "href": "https://help.shopify.com/en/manual/fulfillment/managing-orders/payments/deferred-payments?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#payment-per-fulfillment",
+      "hash": "#payment-per-fulfillment",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Crédit en magasin pour le B2B",
+      "href": "https://help.shopify.com/fr/manual/b2b/checkout-and-orders/store-credit?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#issue-store-credit-to-a-company-location",
+      "hash": "#issue-store-credit-to-a-company-location",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Retrait en magasin pour le B2B",
+      "href": "https://help.shopify.com/fr/manual/b2b/checkout-and-orders/shipping-methods?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#pickup-in-store",
+      "hash": "#pickup-in-store",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Modalités de paiement et acomptes dynamiques",
+      "href": "https://help.shopify.com/fr/manual/b2b/checkout-and-orders/payment-terms?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#configuring-dynamic-payment-terms-and-deposits",
+      "hash": "#configuring-dynamic-payment-terms-and-deposits",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Création de règles pour l'examen des commandes",
+      "href": "https://help.shopify.com/fr/manual/b2b/checkout-and-orders/draft-orders?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#checkout-to-draft",
+      "hash": "#checkout-to-draft",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Importations de produits instantanées pour les détaillants",
+      "href": "https://help.shopify.com/fr/manual/online-sales-channels/shopify-collective/suppliers/price-lists?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#create-price-list",
+      "hash": "#create-price-list",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Intégration des systèmes ERP",
+      "href": "https://help.shopify.com/fr/manual/b2b/reports-and-automations/external-integrations?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#integrating-to-external-systems-using-direct-integrations",
+      "hash": "#integrating-to-external-systems-using-direct-integrations",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Importation de produits améliorée pour les détaillants",
+      "href": "https://help.shopify.com/fr/manual/online-sales-channels/shopify-collective/retailers/policies/products?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#default-product-policies",
+      "hash": "#default-product-policies",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/finance/shopify-balance/managing-account/transfers?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#shopify-balance-automatic-transfers",
+      "hash": "#shopify-balance-automatic-transfers",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/finance/shopify-balance/cards/card?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#number-of-cards",
+      "hash": "#number-of-cards",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Suivi des marges bénéficiaires internationales",
+      "href": "https://help.shopify.com/fr/manual/reports-and-analytics/shopify-reports/report-types/default-reports/profit-reports?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#average-profit-margin-by-market",
+      "hash": "#average-profit-margin-by-market",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Crédits sur les transactions en USDC",
+      "href": "https://help.shopify.com/fr/manual/payments/shopify-payments/usdc-payments?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#credits",
+      "hash": "#credits",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Transferts ACH le jour même",
+      "href": "https://help.shopify.com/fr/manual/finance/shopify-balance/managing-account/transfers?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#shopify-balance-transfer-to-bank",
+      "hash": "#shopify-balance-transfer-to-bank",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Plafond de récompenses Shopify Credit augmenté",
+      "href": "https://help.shopify.com/fr/manual/finance/shopify-credit/rewards?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#calculating-your-cashback-rewards",
+      "hash": "#calculating-your-cashback-rewards",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Limites de crédit dynamiques",
+      "href": "https://help.shopify.com/fr/manual/finance/shopify-credit/manage-account?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#credit-limit-changes",
+      "hash": "#credit-limit-changes",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Alertes de fraude en temps réel pour les cartes Shopify",
+      "href": "https://help.shopify.com/fr/manual/finance/shopify-credit/card-security?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#fraud-alerts-on-shopify-credit-card",
+      "hash": "#fraud-alerts-on-shopify-credit-card",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/fulfillment/fulfilling-orders/shipping-labels/buying-labels/return-labels?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#supported-shipping-carriers",
+      "hash": "#supported-shipping-carriers",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Afficher l’aide",
+      "href": "https://help.shopify.com/fr/manual/fulfillment/setup/packaging/setting-up-packages?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#package-per-variant",
+      "hash": "#package-per-variant",
+      "classes": "group inline-flex items-center justify-center transition-colors outline-none ring-focus ring-offset-0 disabled:cursor-not-allowed focus-visible:ring-1 gap-5 py-"
+    },
+    {
+      "text": "Nom d’expéditeur personnalisé sur les étiquettes",
+      "href": "https://help.shopify.com/fr/manual/fulfillment/fulfilling-orders/shipping-labels/managing-labels/printing-shipping-documents?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#custom-name",
+      "hash": "#custom-name",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Statut du traitement de la commande « en cours »",
+      "href": "https://help.shopify.com/fr/manual/fulfillment/fulfilling-orders/single-fulfillment?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#in-progress",
+      "hash": "#in-progress",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Optimisation des données de performance régionales de l’admin",
+      "href": "https://shopify.dev/docs/apps/build/performance/admin-installation-oauth?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#measure-your-apps-loading-performance",
+      "hash": "#measure-your-apps-loading-performance",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Prise en charge de Liquid dans Shopify Dev MCP",
+      "href": "https://shopify.dev/docs/apps/build/devmcp?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#enable-liquid-support",
+      "hash": "#enable-liquid-support",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Valeur de statut de produit « Non répertorié »",
+      "href": "https://shopify.dev/docs/api/admin-graphql/2025-10/enums/ProductStatus?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#enums-UNLISTED",
+      "hash": "#enums-UNLISTED",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Modalités de paiement à l’expédition pour les pré-commandes",
+      "href": "https://shopify.dev/docs/apps/build/purchase-options/deferred?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#orders-with-multiple-due-dates-and-deposits",
+      "hash": "#orders-with-multiple-due-dates-and-deposits",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Personnalisation des variantes sur POS",
+      "href": "https://help.shopify.com/fr/manual/sell-in-person/shopify-pos/process-sales-transaction?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#add-an-item-to-the-cart",
+      "hash": "#add-an-item-to-the-cart",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Les extensions d’IU pour le POS ouvrent des écrans natifs",
+      "href": "https://shopify.dev/docs/api/pos-ui-extensions/latest/target-apis/platform-apis/navigation-api?example=example-navigate-to-a-native-pos-screen&utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#examples",
+      "hash": "#examples",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Configurations des modalités de paiement et des dépôts",
+      "href": "https://shopify.dev/docs/api/functions/latest/payment-customization?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#CartPaymentMethodsTransformRunResult.fields.operations.paymentTermsSet",
+      "hash": "#CartPaymentMethodsTransformRunResult.fields.operations.paymentTermsSet",
+      "classes": "list-title-link no-underline hover:underline"
+    },
+    {
+      "text": "Opération de révision de commande dans Shopify Functions",
+      "href": "https://shopify.dev/docs/api/functions/latest/payment-customization?utm_source=w26-editions-website&utm_medium=product-cta&utm_campaign=winter26edition#CartPaymentMethodsTransformRunResult.fields.operations.orderReviewAdd",
+      "hash": "#CartPaymentMethodsTransformRunResult.fields.operations.orderReviewAdd",
+      "classes": "list-title-link no-underline hover:underline"
+    }
+  ],
+  "topButtons": [
+    {
+      "text": "Editions",
+      "aria": null,
+      "classes": "navButton text-label-1 [&>.icon]:transition-colors [&>.icon]:duration-300!"
+    },
+    {
+      "text": "Dismiss",
+      "aria": null,
+      "classes": "fixed size-screen inset-0 bg-g7 global-lg:hidden transition-opacity duration-300 z-10 focus-ring hidden opacity-0 pointer-events-none"
+    },
+    {
+      "text": "Dismiss",
+      "aria": null,
+      "classes": "fixed size-screen inset-0 bg-g7 global-lg:hidden transition-opacity duration-300 z-10 focus-ring hidden opacity-0 pointer-events-none"
+    },
+    {
+      "text": "Rechercher",
+      "aria": null,
+      "classes": "navButton text-label-1 [&>.icon]:transition-colors [&>.icon]:duration-300!"
+    },
+    {
+      "text": "Effacer",
+      "aria": null,
+      "classes": "text-label-4-uc h-24 px-8 bg-g3 text-g6 transition-opacity rounded-sm opacity-0"
+    },
+    {
+      "text": "Rechercher",
+      "aria": "Search",
+      "classes": "is-inside-search size-32 mx-8 inline-flex items-center justify-center rounded-lg"
+    },
+    {
+      "text": "",
+      "aria": "Menu",
+      "classes": "inline-flex items-center"
+    },
+    {
+      "text": "Editions",
+      "aria": null,
+      "classes": "mobileNavItem text-label-menu border-t border-g6"
+    },
+    {
+      "text": "Dismiss",
+      "aria": null,
+      "classes": "fixed size-screen inset-0 bg-g7 global-lg:hidden transition-opacity duration-300 z-10 focus-ring hidden opacity-0 pointer-events-none"
+    },
+    {
+      "text": "Dismiss",
+      "aria": null,
+      "classes": "fixed size-screen inset-0 bg-g7 global-lg:hidden transition-opacity duration-300 z-10 focus-ring hidden opacity-0 pointer-events-none"
+    },
+    {
+      "text": "Rechercher",
+      "aria": null,
+      "classes": "navButton text-label-1 [&>.icon]:transition-colors [&>.icon]:duration-300!"
+    },
+    {
+      "text": "Effacer",
+      "aria": null,
+      "classes": "text-label-4-uc h-24 px-8 bg-g3 text-g6 transition-opacity rounded-sm opacity-0"
+    },
+    {
+      "text": "Rechercher",
+      "aria": "Search",
+      "classes": "is-inside-search size-32 mx-8 inline-flex items-center justify-center rounded-lg"
+    }
+  ]
+}

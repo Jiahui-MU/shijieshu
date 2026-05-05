@@ -1,0 +1,25 @@
+{
+  "name": "shopify-winter2026-clone",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "tsc --noEmit",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.5.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@types/three": "^0.184.0",
+    "typescript": "^5.8.3"
+  }
+}

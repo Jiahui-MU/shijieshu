@@ -1,0 +1,1380 @@
+{
+  "target": "https://www.shopify.com/fr/editions/winter2026",
+  "generatedAt": "2026-04-26T10:25:18.630Z",
+  "cookieBannerDismissed": true,
+  "desktop": {
+    "name": "desktop",
+    "dir": "replay-desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "bodyHeight": 56073,
+    "step": 450,
+    "replayFrameHeight": 900,
+    "cookiesDismissed": true,
+    "frameCount": 124,
+    "frames": [
+      {
+        "index": 0,
+        "y": 0,
+        "image": "replay-desktop/frame-000.png"
+      },
+      {
+        "index": 1,
+        "y": 450,
+        "image": "replay-desktop/frame-001.png"
+      },
+      {
+        "index": 2,
+        "y": 900,
+        "image": "replay-desktop/frame-002.png"
+      },
+      {
+        "index": 3,
+        "y": 1350,
+        "image": "replay-desktop/frame-003.png"
+      },
+      {
+        "index": 4,
+        "y": 1800,
+        "image": "replay-desktop/frame-004.png"
+      },
+      {
+        "index": 5,
+        "y": 2250,
+        "image": "replay-desktop/frame-005.png"
+      },
+      {
+        "index": 6,
+        "y": 2700,
+        "image": "replay-desktop/frame-006.png"
+      },
+      {
+        "index": 7,
+        "y": 3150,
+        "image": "replay-desktop/frame-007.png"
+      },
+      {
+        "index": 8,
+        "y": 3600,
+        "image": "replay-desktop/frame-008.png"
+      },
+      {
+        "index": 9,
+        "y": 4050,
+        "image": "replay-desktop/frame-009.png"
+      },
+      {
+        "index": 10,
+        "y": 4500,
+        "image": "replay-desktop/frame-010.png"
+      },
+      {
+        "index": 11,
+        "y": 4950,
+        "image": "replay-desktop/frame-011.png"
+      },
+      {
+        "index": 12,
+        "y": 5400,
+        "image": "replay-desktop/frame-012.png"
+      },
+      {
+        "index": 13,
+        "y": 5850,
+        "image": "replay-desktop/frame-013.png"
+      },
+      {
+        "index": 14,
+        "y": 6300,
+        "image": "replay-desktop/frame-014.png"
+      },
+      {
+        "index": 15,
+        "y": 6750,
+        "image": "replay-desktop/frame-015.png"
+      },
+      {
+        "index": 16,
+        "y": 7200,
+        "image": "replay-desktop/frame-016.png"
+      },
+      {
+        "index": 17,
+        "y": 7650,
+        "image": "replay-desktop/frame-017.png"
+      },
+      {
+        "index": 18,
+        "y": 8100,
+        "image": "replay-desktop/frame-018.png"
+      },
+      {
+        "index": 19,
+        "y": 8550,
+        "image": "replay-desktop/frame-019.png"
+      },
+      {
+        "index": 20,
+        "y": 9000,
+        "image": "replay-desktop/frame-020.png"
+      },
+      {
+        "index": 21,
+        "y": 9450,
+        "image": "replay-desktop/frame-021.png"
+      },
+      {
+        "index": 22,
+        "y": 9900,
+        "image": "replay-desktop/frame-022.png"
+      },
+      {
+        "index": 23,
+        "y": 10350,
+        "image": "replay-desktop/frame-023.png"
+      },
+      {
+        "index": 24,
+        "y": 10800,
+        "image": "replay-desktop/frame-024.png"
+      },
+      {
+        "index": 25,
+        "y": 11250,
+        "image": "replay-desktop/frame-025.png"
+      },
+      {
+        "index": 26,
+        "y": 11700,
+        "image": "replay-desktop/frame-026.png"
+      },
+      {
+        "index": 27,
+        "y": 12150,
+        "image": "replay-desktop/frame-027.png"
+      },
+      {
+        "index": 28,
+        "y": 12600,
+        "image": "replay-desktop/frame-028.png"
+      },
+      {
+        "index": 29,
+        "y": 13050,
+        "image": "replay-desktop/frame-029.png"
+      },
+      {
+        "index": 30,
+        "y": 13500,
+        "image": "replay-desktop/frame-030.png"
+      },
+      {
+        "index": 31,
+        "y": 13950,
+        "image": "replay-desktop/frame-031.png"
+      },
+      {
+        "index": 32,
+        "y": 14400,
+        "image": "replay-desktop/frame-032.png"
+      },
+      {
+        "index": 33,
+        "y": 14850,
+        "image": "replay-desktop/frame-033.png"
+      },
+      {
+        "index": 34,
+        "y": 15300,
+        "image": "replay-desktop/frame-034.png"
+      },
+      {
+        "index": 35,
+        "y": 15750,
+        "image": "replay-desktop/frame-035.png"
+      },
+      {
+        "index": 36,
+        "y": 16200,
+        "image": "replay-desktop/frame-036.png"
+      },
+      {
+        "index": 37,
+        "y": 16650,
+        "image": "replay-desktop/frame-037.png"
+      },
+      {
+        "index": 38,
+        "y": 17100,
+        "image": "replay-desktop/frame-038.png"
+      },
+      {
+        "index": 39,
+        "y": 17550,
+        "image": "replay-desktop/frame-039.png"
+      },
+      {
+        "index": 40,
+        "y": 18000,
+        "image": "replay-desktop/frame-040.png"
+      },
+      {
+        "index": 41,
+        "y": 18450,
+        "image": "replay-desktop/frame-041.png"
+      },
+      {
+        "index": 42,
+        "y": 18900,
+        "image": "replay-desktop/frame-042.png"
+      },
+      {
+        "index": 43,
+        "y": 19350,
+        "image": "replay-desktop/frame-043.png"
+      },
+      {
+        "index": 44,
+        "y": 19800,
+        "image": "replay-desktop/frame-044.png"
+      },
+      {
+        "index": 45,
+        "y": 20250,
+        "image": "replay-desktop/frame-045.png"
+      },
+      {
+        "index": 46,
+        "y": 20700,
+        "image": "replay-desktop/frame-046.png"
+      },
+      {
+        "index": 47,
+        "y": 21150,
+        "image": "replay-desktop/frame-047.png"
+      },
+      {
+        "index": 48,
+        "y": 21600,
+        "image": "replay-desktop/frame-048.png"
+      },
+      {
+        "index": 49,
+        "y": 22050,
+        "image": "replay-desktop/frame-049.png"
+      },
+      {
+        "index": 50,
+        "y": 22500,
+        "image": "replay-desktop/frame-050.png"
+      },
+      {
+        "index": 51,
+        "y": 22950,
+        "image": "replay-desktop/frame-051.png"
+      },
+      {
+        "index": 52,
+        "y": 23400,
+        "image": "replay-desktop/frame-052.png"
+      },
+      {
+        "index": 53,
+        "y": 23850,
+        "image": "replay-desktop/frame-053.png"
+      },
+      {
+        "index": 54,
+        "y": 24300,
+        "image": "replay-desktop/frame-054.png"
+      },
+      {
+        "index": 55,
+        "y": 24750,
+        "image": "replay-desktop/frame-055.png"
+      },
+      {
+        "index": 56,
+        "y": 25200,
+        "image": "replay-desktop/frame-056.png"
+      },
+      {
+        "index": 57,
+        "y": 25650,
+        "image": "replay-desktop/frame-057.png"
+      },
+      {
+        "index": 58,
+        "y": 26100,
+        "image": "replay-desktop/frame-058.png"
+      },
+      {
+        "index": 59,
+        "y": 26550,
+        "image": "replay-desktop/frame-059.png"
+      },
+      {
+        "index": 60,
+        "y": 27000,
+        "image": "replay-desktop/frame-060.png"
+      },
+      {
+        "index": 61,
+        "y": 27450,
+        "image": "replay-desktop/frame-061.png"
+      },
+      {
+        "index": 62,
+        "y": 27900,
+        "image": "replay-desktop/frame-062.png"
+      },
+      {
+        "index": 63,
+        "y": 28350,
+        "image": "replay-desktop/frame-063.png"
+      },
+      {
+        "index": 64,
+        "y": 28800,
+        "image": "replay-desktop/frame-064.png"
+      },
+      {
+        "index": 65,
+        "y": 29250,
+        "image": "replay-desktop/frame-065.png"
+      },
+      {
+        "index": 66,
+        "y": 29700,
+        "image": "replay-desktop/frame-066.png"
+      },
+      {
+        "index": 67,
+        "y": 30150,
+        "image": "replay-desktop/frame-067.png"
+      },
+      {
+        "index": 68,
+        "y": 30600,
+        "image": "replay-desktop/frame-068.png"
+      },
+      {
+        "index": 69,
+        "y": 31050,
+        "image": "replay-desktop/frame-069.png"
+      },
+      {
+        "index": 70,
+        "y": 31500,
+        "image": "replay-desktop/frame-070.png"
+      },
+      {
+        "index": 71,
+        "y": 31950,
+        "image": "replay-desktop/frame-071.png"
+      },
+      {
+        "index": 72,
+        "y": 32400,
+        "image": "replay-desktop/frame-072.png"
+      },
+      {
+        "index": 73,
+        "y": 32850,
+        "image": "replay-desktop/frame-073.png"
+      },
+      {
+        "index": 74,
+        "y": 33300,
+        "image": "replay-desktop/frame-074.png"
+      },
+      {
+        "index": 75,
+        "y": 33750,
+        "image": "replay-desktop/frame-075.png"
+      },
+      {
+        "index": 76,
+        "y": 34200,
+        "image": "replay-desktop/frame-076.png"
+      },
+      {
+        "index": 77,
+        "y": 34650,
+        "image": "replay-desktop/frame-077.png"
+      },
+      {
+        "index": 78,
+        "y": 35100,
+        "image": "replay-desktop/frame-078.png"
+      },
+      {
+        "index": 79,
+        "y": 35550,
+        "image": "replay-desktop/frame-079.png"
+      },
+      {
+        "index": 80,
+        "y": 36000,
+        "image": "replay-desktop/frame-080.png"
+      },
+      {
+        "index": 81,
+        "y": 36450,
+        "image": "replay-desktop/frame-081.png"
+      },
+      {
+        "index": 82,
+        "y": 36900,
+        "image": "replay-desktop/frame-082.png"
+      },
+      {
+        "index": 83,
+        "y": 37350,
+        "image": "replay-desktop/frame-083.png"
+      },
+      {
+        "index": 84,
+        "y": 37800,
+        "image": "replay-desktop/frame-084.png"
+      },
+      {
+        "index": 85,
+        "y": 38250,
+        "image": "replay-desktop/frame-085.png"
+      },
+      {
+        "index": 86,
+        "y": 38700,
+        "image": "replay-desktop/frame-086.png"
+      },
+      {
+        "index": 87,
+        "y": 39150,
+        "image": "replay-desktop/frame-087.png"
+      },
+      {
+        "index": 88,
+        "y": 39600,
+        "image": "replay-desktop/frame-088.png"
+      },
+      {
+        "index": 89,
+        "y": 40050,
+        "image": "replay-desktop/frame-089.png"
+      },
+      {
+        "index": 90,
+        "y": 40500,
+        "image": "replay-desktop/frame-090.png"
+      },
+      {
+        "index": 91,
+        "y": 40950,
+        "image": "replay-desktop/frame-091.png"
+      },
+      {
+        "index": 92,
+        "y": 41400,
+        "image": "replay-desktop/frame-092.png"
+      },
+      {
+        "index": 93,
+        "y": 41850,
+        "image": "replay-desktop/frame-093.png"
+      },
+      {
+        "index": 94,
+        "y": 42300,
+        "image": "replay-desktop/frame-094.png"
+      },
+      {
+        "index": 95,
+        "y": 42750,
+        "image": "replay-desktop/frame-095.png"
+      },
+      {
+        "index": 96,
+        "y": 43200,
+        "image": "replay-desktop/frame-096.png"
+      },
+      {
+        "index": 97,
+        "y": 43650,
+        "image": "replay-desktop/frame-097.png"
+      },
+      {
+        "index": 98,
+        "y": 44100,
+        "image": "replay-desktop/frame-098.png"
+      },
+      {
+        "index": 99,
+        "y": 44550,
+        "image": "replay-desktop/frame-099.png"
+      },
+      {
+        "index": 100,
+        "y": 45000,
+        "image": "replay-desktop/frame-100.png"
+      },
+      {
+        "index": 101,
+        "y": 45450,
+        "image": "replay-desktop/frame-101.png"
+      },
+      {
+        "index": 102,
+        "y": 45900,
+        "image": "replay-desktop/frame-102.png"
+      },
+      {
+        "index": 103,
+        "y": 46350,
+        "image": "replay-desktop/frame-103.png"
+      },
+      {
+        "index": 104,
+        "y": 46800,
+        "image": "replay-desktop/frame-104.png"
+      },
+      {
+        "index": 105,
+        "y": 47250,
+        "image": "replay-desktop/frame-105.png"
+      },
+      {
+        "index": 106,
+        "y": 47700,
+        "image": "replay-desktop/frame-106.png"
+      },
+      {
+        "index": 107,
+        "y": 48150,
+        "image": "replay-desktop/frame-107.png"
+      },
+      {
+        "index": 108,
+        "y": 48600,
+        "image": "replay-desktop/frame-108.png"
+      },
+      {
+        "index": 109,
+        "y": 49050,
+        "image": "replay-desktop/frame-109.png"
+      },
+      {
+        "index": 110,
+        "y": 49500,
+        "image": "replay-desktop/frame-110.png"
+      },
+      {
+        "index": 111,
+        "y": 49950,
+        "image": "replay-desktop/frame-111.png"
+      },
+      {
+        "index": 112,
+        "y": 50400,
+        "image": "replay-desktop/frame-112.png"
+      },
+      {
+        "index": 113,
+        "y": 50850,
+        "image": "replay-desktop/frame-113.png"
+      },
+      {
+        "index": 114,
+        "y": 51300,
+        "image": "replay-desktop/frame-114.png"
+      },
+      {
+        "index": 115,
+        "y": 51750,
+        "image": "replay-desktop/frame-115.png"
+      },
+      {
+        "index": 116,
+        "y": 52200,
+        "image": "replay-desktop/frame-116.png"
+      },
+      {
+        "index": 117,
+        "y": 52650,
+        "image": "replay-desktop/frame-117.png"
+      },
+      {
+        "index": 118,
+        "y": 53100,
+        "image": "replay-desktop/frame-118.png"
+      },
+      {
+        "index": 119,
+        "y": 53550,
+        "image": "replay-desktop/frame-119.png"
+      },
+      {
+        "index": 120,
+        "y": 54000,
+        "image": "replay-desktop/frame-120.png"
+      },
+      {
+        "index": 121,
+        "y": 54450,
+        "image": "replay-desktop/frame-121.png"
+      },
+      {
+        "index": 122,
+        "y": 54900,
+        "image": "replay-desktop/frame-122.png"
+      },
+      {
+        "index": 123,
+        "y": 55173,
+        "image": "replay-desktop/frame-123.png"
+      }
+    ]
+  },
+  "mobile": {
+    "name": "mobile",
+    "dir": "replay-mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "bodyHeight": 61422,
+    "step": 422,
+    "replayFrameHeight": 844,
+    "cookiesDismissed": true,
+    "frameCount": 145,
+    "frames": [
+      {
+        "index": 0,
+        "y": 0,
+        "image": "replay-mobile/frame-000.png"
+      },
+      {
+        "index": 1,
+        "y": 422,
+        "image": "replay-mobile/frame-001.png"
+      },
+      {
+        "index": 2,
+        "y": 844,
+        "image": "replay-mobile/frame-002.png"
+      },
+      {
+        "index": 3,
+        "y": 1266,
+        "image": "replay-mobile/frame-003.png"
+      },
+      {
+        "index": 4,
+        "y": 1688,
+        "image": "replay-mobile/frame-004.png"
+      },
+      {
+        "index": 5,
+        "y": 2110,
+        "image": "replay-mobile/frame-005.png"
+      },
+      {
+        "index": 6,
+        "y": 2532,
+        "image": "replay-mobile/frame-006.png"
+      },
+      {
+        "index": 7,
+        "y": 2954,
+        "image": "replay-mobile/frame-007.png"
+      },
+      {
+        "index": 8,
+        "y": 3376,
+        "image": "replay-mobile/frame-008.png"
+      },
+      {
+        "index": 9,
+        "y": 3798,
+        "image": "replay-mobile/frame-009.png"
+      },
+      {
+        "index": 10,
+        "y": 4220,
+        "image": "replay-mobile/frame-010.png"
+      },
+      {
+        "index": 11,
+        "y": 4642,
+        "image": "replay-mobile/frame-011.png"
+      },
+      {
+        "index": 12,
+        "y": 5064,
+        "image": "replay-mobile/frame-012.png"
+      },
+      {
+        "index": 13,
+        "y": 5486,
+        "image": "replay-mobile/frame-013.png"
+      },
+      {
+        "index": 14,
+        "y": 5908,
+        "image": "replay-mobile/frame-014.png"
+      },
+      {
+        "index": 15,
+        "y": 6330,
+        "image": "replay-mobile/frame-015.png"
+      },
+      {
+        "index": 16,
+        "y": 6752,
+        "image": "replay-mobile/frame-016.png"
+      },
+      {
+        "index": 17,
+        "y": 7174,
+        "image": "replay-mobile/frame-017.png"
+      },
+      {
+        "index": 18,
+        "y": 7596,
+        "image": "replay-mobile/frame-018.png"
+      },
+      {
+        "index": 19,
+        "y": 8018,
+        "image": "replay-mobile/frame-019.png"
+      },
+      {
+        "index": 20,
+        "y": 8440,
+        "image": "replay-mobile/frame-020.png"
+      },
+      {
+        "index": 21,
+        "y": 8862,
+        "image": "replay-mobile/frame-021.png"
+      },
+      {
+        "index": 22,
+        "y": 9284,
+        "image": "replay-mobile/frame-022.png"
+      },
+      {
+        "index": 23,
+        "y": 9706,
+        "image": "replay-mobile/frame-023.png"
+      },
+      {
+        "index": 24,
+        "y": 10128,
+        "image": "replay-mobile/frame-024.png"
+      },
+      {
+        "index": 25,
+        "y": 10550,
+        "image": "replay-mobile/frame-025.png"
+      },
+      {
+        "index": 26,
+        "y": 10972,
+        "image": "replay-mobile/frame-026.png"
+      },
+      {
+        "index": 27,
+        "y": 11394,
+        "image": "replay-mobile/frame-027.png"
+      },
+      {
+        "index": 28,
+        "y": 11816,
+        "image": "replay-mobile/frame-028.png"
+      },
+      {
+        "index": 29,
+        "y": 12238,
+        "image": "replay-mobile/frame-029.png"
+      },
+      {
+        "index": 30,
+        "y": 12660,
+        "image": "replay-mobile/frame-030.png"
+      },
+      {
+        "index": 31,
+        "y": 13082,
+        "image": "replay-mobile/frame-031.png"
+      },
+      {
+        "index": 32,
+        "y": 13504,
+        "image": "replay-mobile/frame-032.png"
+      },
+      {
+        "index": 33,
+        "y": 13926,
+        "image": "replay-mobile/frame-033.png"
+      },
+      {
+        "index": 34,
+        "y": 14348,
+        "image": "replay-mobile/frame-034.png"
+      },
+      {
+        "index": 35,
+        "y": 14770,
+        "image": "replay-mobile/frame-035.png"
+      },
+      {
+        "index": 36,
+        "y": 15192,
+        "image": "replay-mobile/frame-036.png"
+      },
+      {
+        "index": 37,
+        "y": 15614,
+        "image": "replay-mobile/frame-037.png"
+      },
+      {
+        "index": 38,
+        "y": 16036,
+        "image": "replay-mobile/frame-038.png"
+      },
+      {
+        "index": 39,
+        "y": 16458,
+        "image": "replay-mobile/frame-039.png"
+      },
+      {
+        "index": 40,
+        "y": 16880,
+        "image": "replay-mobile/frame-040.png"
+      },
+      {
+        "index": 41,
+        "y": 17302,
+        "image": "replay-mobile/frame-041.png"
+      },
+      {
+        "index": 42,
+        "y": 17724,
+        "image": "replay-mobile/frame-042.png"
+      },
+      {
+        "index": 43,
+        "y": 18146,
+        "image": "replay-mobile/frame-043.png"
+      },
+      {
+        "index": 44,
+        "y": 18568,
+        "image": "replay-mobile/frame-044.png"
+      },
+      {
+        "index": 45,
+        "y": 18990,
+        "image": "replay-mobile/frame-045.png"
+      },
+      {
+        "index": 46,
+        "y": 19412,
+        "image": "replay-mobile/frame-046.png"
+      },
+      {
+        "index": 47,
+        "y": 19834,
+        "image": "replay-mobile/frame-047.png"
+      },
+      {
+        "index": 48,
+        "y": 20256,
+        "image": "replay-mobile/frame-048.png"
+      },
+      {
+        "index": 49,
+        "y": 20678,
+        "image": "replay-mobile/frame-049.png"
+      },
+      {
+        "index": 50,
+        "y": 21100,
+        "image": "replay-mobile/frame-050.png"
+      },
+      {
+        "index": 51,
+        "y": 21522,
+        "image": "replay-mobile/frame-051.png"
+      },
+      {
+        "index": 52,
+        "y": 21944,
+        "image": "replay-mobile/frame-052.png"
+      },
+      {
+        "index": 53,
+        "y": 22366,
+        "image": "replay-mobile/frame-053.png"
+      },
+      {
+        "index": 54,
+        "y": 22788,
+        "image": "replay-mobile/frame-054.png"
+      },
+      {
+        "index": 55,
+        "y": 23210,
+        "image": "replay-mobile/frame-055.png"
+      },
+      {
+        "index": 56,
+        "y": 23632,
+        "image": "replay-mobile/frame-056.png"
+      },
+      {
+        "index": 57,
+        "y": 24054,
+        "image": "replay-mobile/frame-057.png"
+      },
+      {
+        "index": 58,
+        "y": 24476,
+        "image": "replay-mobile/frame-058.png"
+      },
+      {
+        "index": 59,
+        "y": 24898,
+        "image": "replay-mobile/frame-059.png"
+      },
+      {
+        "index": 60,
+        "y": 25320,
+        "image": "replay-mobile/frame-060.png"
+      },
+      {
+        "index": 61,
+        "y": 25742,
+        "image": "replay-mobile/frame-061.png"
+      },
+      {
+        "index": 62,
+        "y": 26164,
+        "image": "replay-mobile/frame-062.png"
+      },
+      {
+        "index": 63,
+        "y": 26586,
+        "image": "replay-mobile/frame-063.png"
+      },
+      {
+        "index": 64,
+        "y": 27008,
+        "image": "replay-mobile/frame-064.png"
+      },
+      {
+        "index": 65,
+        "y": 27430,
+        "image": "replay-mobile/frame-065.png"
+      },
+      {
+        "index": 66,
+        "y": 27852,
+        "image": "replay-mobile/frame-066.png"
+      },
+      {
+        "index": 67,
+        "y": 28274,
+        "image": "replay-mobile/frame-067.png"
+      },
+      {
+        "index": 68,
+        "y": 28696,
+        "image": "replay-mobile/frame-068.png"
+      },
+      {
+        "index": 69,
+        "y": 29118,
+        "image": "replay-mobile/frame-069.png"
+      },
+      {
+        "index": 70,
+        "y": 29540,
+        "image": "replay-mobile/frame-070.png"
+      },
+      {
+        "index": 71,
+        "y": 29962,
+        "image": "replay-mobile/frame-071.png"
+      },
+      {
+        "index": 72,
+        "y": 30384,
+        "image": "replay-mobile/frame-072.png"
+      },
+      {
+        "index": 73,
+        "y": 30806,
+        "image": "replay-mobile/frame-073.png"
+      },
+      {
+        "index": 74,
+        "y": 31228,
+        "image": "replay-mobile/frame-074.png"
+      },
+      {
+        "index": 75,
+        "y": 31650,
+        "image": "replay-mobile/frame-075.png"
+      },
+      {
+        "index": 76,
+        "y": 32072,
+        "image": "replay-mobile/frame-076.png"
+      },
+      {
+        "index": 77,
+        "y": 32494,
+        "image": "replay-mobile/frame-077.png"
+      },
+      {
+        "index": 78,
+        "y": 32916,
+        "image": "replay-mobile/frame-078.png"
+      },
+      {
+        "index": 79,
+        "y": 33338,
+        "image": "replay-mobile/frame-079.png"
+      },
+      {
+        "index": 80,
+        "y": 33760,
+        "image": "replay-mobile/frame-080.png"
+      },
+      {
+        "index": 81,
+        "y": 34182,
+        "image": "replay-mobile/frame-081.png"
+      },
+      {
+        "index": 82,
+        "y": 34604,
+        "image": "replay-mobile/frame-082.png"
+      },
+      {
+        "index": 83,
+        "y": 35026,
+        "image": "replay-mobile/frame-083.png"
+      },
+      {
+        "index": 84,
+        "y": 35448,
+        "image": "replay-mobile/frame-084.png"
+      },
+      {
+        "index": 85,
+        "y": 35870,
+        "image": "replay-mobile/frame-085.png"
+      },
+      {
+        "index": 86,
+        "y": 36292,
+        "image": "replay-mobile/frame-086.png"
+      },
+      {
+        "index": 87,
+        "y": 36714,
+        "image": "replay-mobile/frame-087.png"
+      },
+      {
+        "index": 88,
+        "y": 37136,
+        "image": "replay-mobile/frame-088.png"
+      },
+      {
+        "index": 89,
+        "y": 37558,
+        "image": "replay-mobile/frame-089.png"
+      },
+      {
+        "index": 90,
+        "y": 37980,
+        "image": "replay-mobile/frame-090.png"
+      },
+      {
+        "index": 91,
+        "y": 38402,
+        "image": "replay-mobile/frame-091.png"
+      },
+      {
+        "index": 92,
+        "y": 38824,
+        "image": "replay-mobile/frame-092.png"
+      },
+      {
+        "index": 93,
+        "y": 39246,
+        "image": "replay-mobile/frame-093.png"
+      },
+      {
+        "index": 94,
+        "y": 39668,
+        "image": "replay-mobile/frame-094.png"
+      },
+      {
+        "index": 95,
+        "y": 40090,
+        "image": "replay-mobile/frame-095.png"
+      },
+      {
+        "index": 96,
+        "y": 40512,
+        "image": "replay-mobile/frame-096.png"
+      },
+      {
+        "index": 97,
+        "y": 40934,
+        "image": "replay-mobile/frame-097.png"
+      },
+      {
+        "index": 98,
+        "y": 41356,
+        "image": "replay-mobile/frame-098.png"
+      },
+      {
+        "index": 99,
+        "y": 41778,
+        "image": "replay-mobile/frame-099.png"
+      },
+      {
+        "index": 100,
+        "y": 42200,
+        "image": "replay-mobile/frame-100.png"
+      },
+      {
+        "index": 101,
+        "y": 42622,
+        "image": "replay-mobile/frame-101.png"
+      },
+      {
+        "index": 102,
+        "y": 43044,
+        "image": "replay-mobile/frame-102.png"
+      },
+      {
+        "index": 103,
+        "y": 43466,
+        "image": "replay-mobile/frame-103.png"
+      },
+      {
+        "index": 104,
+        "y": 43888,
+        "image": "replay-mobile/frame-104.png"
+      },
+      {
+        "index": 105,
+        "y": 44310,
+        "image": "replay-mobile/frame-105.png"
+      },
+      {
+        "index": 106,
+        "y": 44732,
+        "image": "replay-mobile/frame-106.png"
+      },
+      {
+        "index": 107,
+        "y": 45154,
+        "image": "replay-mobile/frame-107.png"
+      },
+      {
+        "index": 108,
+        "y": 45576,
+        "image": "replay-mobile/frame-108.png"
+      },
+      {
+        "index": 109,
+        "y": 45998,
+        "image": "replay-mobile/frame-109.png"
+      },
+      {
+        "index": 110,
+        "y": 46420,
+        "image": "replay-mobile/frame-110.png"
+      },
+      {
+        "index": 111,
+        "y": 46842,
+        "image": "replay-mobile/frame-111.png"
+      },
+      {
+        "index": 112,
+        "y": 47264,
+        "image": "replay-mobile/frame-112.png"
+      },
+      {
+        "index": 113,
+        "y": 47686,
+        "image": "replay-mobile/frame-113.png"
+      },
+      {
+        "index": 114,
+        "y": 48108,
+        "image": "replay-mobile/frame-114.png"
+      },
+      {
+        "index": 115,
+        "y": 48530,
+        "image": "replay-mobile/frame-115.png"
+      },
+      {
+        "index": 116,
+        "y": 48952,
+        "image": "replay-mobile/frame-116.png"
+      },
+      {
+        "index": 117,
+        "y": 49374,
+        "image": "replay-mobile/frame-117.png"
+      },
+      {
+        "index": 118,
+        "y": 49796,
+        "image": "replay-mobile/frame-118.png"
+      },
+      {
+        "index": 119,
+        "y": 50218,
+        "image": "replay-mobile/frame-119.png"
+      },
+      {
+        "index": 120,
+        "y": 50640,
+        "image": "replay-mobile/frame-120.png"
+      },
+      {
+        "index": 121,
+        "y": 51062,
+        "image": "replay-mobile/frame-121.png"
+      },
+      {
+        "index": 122,
+        "y": 51484,
+        "image": "replay-mobile/frame-122.png"
+      },
+      {
+        "index": 123,
+        "y": 51906,
+        "image": "replay-mobile/frame-123.png"
+      },
+      {
+        "index": 124,
+        "y": 52328,
+        "image": "replay-mobile/frame-124.png"
+      },
+      {
+        "index": 125,
+        "y": 52750,
+        "image": "replay-mobile/frame-125.png"
+      },
+      {
+        "index": 126,
+        "y": 53172,
+        "image": "replay-mobile/frame-126.png"
+      },
+      {
+        "index": 127,
+        "y": 53594,
+        "image": "replay-mobile/frame-127.png"
+      },
+      {
+        "index": 128,
+        "y": 54016,
+        "image": "replay-mobile/frame-128.png"
+      },
+      {
+        "index": 129,
+        "y": 54438,
+        "image": "replay-mobile/frame-129.png"
+      },
+      {
+        "index": 130,
+        "y": 54860,
+        "image": "replay-mobile/frame-130.png"
+      },
+      {
+        "index": 131,
+        "y": 55282,
+        "image": "replay-mobile/frame-131.png"
+      },
+      {
+        "index": 132,
+        "y": 55704,
+        "image": "replay-mobile/frame-132.png"
+      },
+      {
+        "index": 133,
+        "y": 56126,
+        "image": "replay-mobile/frame-133.png"
+      },
+      {
+        "index": 134,
+        "y": 56548,
+        "image": "replay-mobile/frame-134.png"
+      },
+      {
+        "index": 135,
+        "y": 56970,
+        "image": "replay-mobile/frame-135.png"
+      },
+      {
+        "index": 136,
+        "y": 57392,
+        "image": "replay-mobile/frame-136.png"
+      },
+      {
+        "index": 137,
+        "y": 57814,
+        "image": "replay-mobile/frame-137.png"
+      },
+      {
+        "index": 138,
+        "y": 58236,
+        "image": "replay-mobile/frame-138.png"
+      },
+      {
+        "index": 139,
+        "y": 58658,
+        "image": "replay-mobile/frame-139.png"
+      },
+      {
+        "index": 140,
+        "y": 59080,
+        "image": "replay-mobile/frame-140.png"
+      },
+      {
+        "index": 141,
+        "y": 59502,
+        "image": "replay-mobile/frame-141.png"
+      },
+      {
+        "index": 142,
+        "y": 59924,
+        "image": "replay-mobile/frame-142.png"
+      },
+      {
+        "index": 143,
+        "y": 60346,
+        "image": "replay-mobile/frame-143.png"
+      },
+      {
+        "index": 144,
+        "y": 60578,
+        "image": "replay-mobile/frame-144.png"
+      }
+    ]
+  }
+}

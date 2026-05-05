@@ -1,0 +1,393 @@
+[
+  {
+    "tag": "div",
+    "id": "",
+    "className": "hidden global-lg:block [html[data-nav-theme='dark'][data-nav-bg='solid']_&]:opacity-75 opacity-0 transition-opacity duration-300 inset-0 bg-gradient-to-b from-black to-transparent ",
+    "text": "",
+    "rect": {
+      "top": 52960,
+      "left": 0,
+      "width": 1440,
+      "height": 50
+    },
+    "backgroundImage": "linear-gradient(in oklab, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%)",
+    "before": "",
+    "after": "",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "hidden global-lg:block [html[data-nav-theme='light'][data-nav-bg='solid']_&]:opacity-75 opacity-0 transition-opacity duration-300 inset-0 bg-gradient-to-b from-grey-light to-transp",
+    "text": "",
+    "rect": {
+      "top": 52960,
+      "left": 0,
+      "width": 1440,
+      "height": 50
+    },
+    "backgroundImage": "linear-gradient(in oklab, rgb(220, 220, 208) 0%, rgba(0, 0, 0, 0) 100%)",
+    "before": "",
+    "after": "",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Sidekick",
+    "rect": {
+      "top": 53579,
+      "left": 12,
+      "width": 140,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Agentique",
+    "rect": {
+      "top": 53595,
+      "left": 12,
+      "width": 136,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "En ligne",
+    "rect": {
+      "top": 53612,
+      "left": 12,
+      "width": 133,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Retail",
+    "rect": {
+      "top": 53629,
+      "left": 12,
+      "width": 132,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Marketing",
+    "rect": {
+      "top": 53646,
+      "left": 12,
+      "width": 135,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Paiement",
+    "rect": {
+      "top": 53663,
+      "left": 12,
+      "width": 132,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Opérations",
+    "rect": {
+      "top": 53680,
+      "left": 12,
+      "width": 128,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Shop app",
+    "rect": {
+      "top": 53697,
+      "left": 12,
+      "width": 125,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "B2B",
+    "rect": {
+      "top": 53714,
+      "left": 12,
+      "width": 132,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Finance",
+    "rect": {
+      "top": 53730,
+      "left": 12,
+      "width": 135,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Expédition",
+    "rect": {
+      "top": 53747,
+      "left": 12,
+      "width": 132,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "span",
+    "id": "",
+    "className": "",
+    "text": "Développeurs",
+    "rect": {
+      "top": 53764,
+      "left": 12,
+      "width": 128,
+      "height": 13
+    },
+    "backgroundImage": "",
+    "before": "",
+    "after": "linear-gradient(270deg, rgb(0, 0, 0) 1px, rgba(0, 0, 0, 0) 1px)",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "absolute inset-0 pointer-events-none bg-repeat",
+    "text": "",
+    "rect": {
+      "top": 16751,
+      "left": 288,
+      "width": 1152,
+      "height": 866
+    },
+    "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg\")",
+    "before": "",
+    "after": "",
+    "backgroundSize": "400px",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "absolute inset-0 pointer-events-none bg-repeat",
+    "text": "",
+    "rect": {
+      "top": 26742,
+      "left": 288,
+      "width": 1152,
+      "height": 521
+    },
+    "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg\")",
+    "before": "",
+    "after": "",
+    "backgroundSize": "400px",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "absolute inset-0 pointer-events-none bg-repeat",
+    "text": "",
+    "rect": {
+      "top": 31010,
+      "left": 288,
+      "width": 1152,
+      "height": 481
+    },
+    "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg\")",
+    "before": "",
+    "after": "",
+    "backgroundSize": "400px",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "absolute inset-0 pointer-events-none bg-repeat",
+    "text": "",
+    "rect": {
+      "top": 33248,
+      "left": 288,
+      "width": 1152,
+      "height": 450
+    },
+    "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg\")",
+    "before": "",
+    "after": "",
+    "backgroundSize": "400px",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "absolute inset-0 pointer-events-none bg-repeat",
+    "text": "",
+    "rect": {
+      "top": 35824,
+      "left": 288,
+      "width": 1152,
+      "height": 983
+    },
+    "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg\")",
+    "before": "",
+    "after": "",
+    "backgroundSize": "400px",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "absolute inset-0 pointer-events-none bg-repeat",
+    "text": "",
+    "rect": {
+      "top": 38908,
+      "left": 288,
+      "width": 1152,
+      "height": 355
+    },
+    "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg\")",
+    "before": "",
+    "after": "",
+    "backgroundSize": "400px",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "absolute inset-0 pointer-events-none bg-repeat",
+    "text": "",
+    "rect": {
+      "top": 41677,
+      "left": 288,
+      "width": 1152,
+      "height": 629
+    },
+    "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg\")",
+    "before": "",
+    "after": "",
+    "backgroundSize": "400px",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "absolute inset-0 pointer-events-none bg-repeat",
+    "text": "",
+    "rect": {
+      "top": 44219,
+      "left": 288,
+      "width": 1152,
+      "height": 629
+    },
+    "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg\")",
+    "before": "",
+    "after": "",
+    "backgroundSize": "400px",
+    "backgroundPosition": "0% 0%"
+  },
+  {
+    "tag": "div",
+    "id": "",
+    "className": "absolute inset-0 pointer-events-none bg-repeat",
+    "text": "",
+    "rect": {
+      "top": 46718,
+      "left": 288,
+      "width": 1152,
+      "height": 456
+    },
+    "backgroundImage": "url(\"https://cdn.shopify.com/s/files/1/0951/3130/4218/files/texture-src-90.jpg\")",
+    "before": "",
+    "after": "",
+    "backgroundSize": "400px",
+    "backgroundPosition": "0% 0%"
+  }
+]
